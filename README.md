@@ -1,6 +1,6 @@
 Plotly mesh3d multiple objects example. 
 Temperature data based on real arduino sensors data, placed around a graphics card.
-<img src="examples/obj_temp.png">
+![Example](examples/obj_temp.PNG)
 
 
 # Installation
